@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Ashwini Uppal",
-      "titles": [ "Co-Founder InSync.chat" ],
+      "titles": [ "Software developer" ],
       "social": [
         {
           "name": "github",
@@ -28,25 +28,12 @@
           "class": "devicon-css3-plain",
           "level": "95"
         },
-        {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
+      
+  
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
-        },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
         },
         {
           "name": "Bootstrap",
@@ -54,14 +41,9 @@
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "React#",
+          "class": "devicon-react-plain",
           "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
         }
       ]
     }
